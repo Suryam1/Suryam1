@@ -1,3 +1,5 @@
+Hi 👋, I'm Suryam Bhukania
+
 # 💫 About Me:
 🖥️ Tech Enthusiast: From web development to machine learning, I'm always eager to explore the latest technologies and apply them to real-world projects.<br><br>💡 Problem Solver: I thrive on challenges and believe that every problem has a solution waiting to be uncovered. I enjoy tackling both small bugs and big architectural puzzles.<br><br>🌐 Open Source Advocate: I'm a firm believer in the power of open source software. You can often find me contributing to exciting projects or sharing my own creations with the community.<br><br>📚 Lifelong Learner: The tech world never stands still, and neither do I. I'm constantly learning, whether it's a new programming language, framework, or concept.<br><br>🎓 Education: 3rd Year student at Chitkara University HP.<br><br>🌍 Fun Facts: Apart from coding, I like to play games, Binge-Watching, Listening Songs and Cooking .<br><br>🙏 Thanks for stopping by! Together, let's build a better, more connected digital world through code. 🚀
 
